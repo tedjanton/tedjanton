@@ -9,7 +9,7 @@ My name is Ted Anton, and I'm a musician and marketer turned software engineer t
 - ⚡ Fun fact: I was almost a professional bowler at the age of 10
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ted-anton/)
-[![Gmail Badge](https://img.shields.io/badge/-husseingeid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tedjanton@gmail.com)](mailto:tedjanton@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tedjanton@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tedjanton@gmail.com)](mailto:tedjanton@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](http://www.tedjanton.com)
 
 ## ⚡ Technologies
