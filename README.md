@@ -4,7 +4,7 @@ My name is Ted Anton, and I'm a musician and marketer turned software engineer t
 - 🔭 I’m currently working on a full-stack Spotify clone that includes music videos
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him/his (but honestly, you can call me whatever you fancy)
-- - 👯 I’m looking to collaborate on any new and exciting project!
+- 👯 I’m looking to collaborate on any new and exciting project!
 - 💬 Ask me about my journey as a software engineer, classical flutist, or marketer
 - ⚡ Fun fact: I was almost a professional bowler at the age of 10
 
