@@ -33,7 +33,7 @@ My name is Ted Anton, and I'm a musician and marketer turned software engineer t
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Hussein's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tedjanton&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ted's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tedjanton&show_icons=true&hide_border=true" />
 
 </details>
 
