@@ -42,4 +42,5 @@ My name is Ted Anton, and I'm a musician and marketer turned software engineer t
 
 <img align="left" alt="Ted's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjanton" />
 
+  
 </details>
